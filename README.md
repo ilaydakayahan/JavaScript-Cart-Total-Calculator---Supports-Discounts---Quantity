@@ -14,13 +14,12 @@ Toplam fiyatı hesaplar, indirim kodlarını destekler ve ürün adetlerine gör
 
 
 ## 📂 Proje Yapısı  
-cart.js
-cart.test.js
+-cart.js
+-cart.test.js
 
 ## ⚙️ Kurulum & Kullanım  
 1. Bu repoyu klonla:  
-   ```bash
- -  git clone https://github.com/ilaydakayahan/JavaScript-Cart-Total-Calculator---Supports-Discounts---Quantity
+   ```bash git clone https://github.com/ilaydakayahan/JavaScript-Cart-Total-Calculator---Supports-Discounts---Quantity
     index.html dosyasını tarayıcıda aç.
     Ürün ekle, adet belirle, indirim kodu uygula ve toplamı gör! 🎉
  ## 🧪 Testler
